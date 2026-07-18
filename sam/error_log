@@ -1,0 +1,432 @@
+[13-Dec-2025 19:43:48 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:43:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:43:58 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:43:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:44:51 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:44:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:45:21 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:45:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:48:04 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 19:48:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:00:39 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:00:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:00:42 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:00:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:11:47 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:11:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:20:50 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:20:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(68): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:21:55 UTC] PHP Warning:  require(/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): Failed to open stream: No such file or directory in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[13-Dec-2025 20:21:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samsbvjk/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/samsbvjk/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/samsbvjk/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/samsbvjk/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bae9e80265f85709f7235955fd3024a::getLoader()
+#2 /home/samsbvjk/public_html/admin.php(72): require_once('/home/samsbvjk/...')
+#3 {main}
+  thrown in /home/samsbvjk/public_html/vendor/composer/autoload_real.php on line 41
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $percent in /home/samsbvjk/public_html/index.php on line 50
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:01 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 67
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $percent in /home/samsbvjk/public_html/index.php on line 50
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:02 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 67
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $percent in /home/samsbvjk/public_html/index.php on line 50
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:05 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 67
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $percent in /home/samsbvjk/public_html/index.php on line 50
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:38:06 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 67
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $percent in /home/samsbvjk/public_html/index.php on line 50
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 51
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 54
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 57
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 58
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $off in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/index.php on line 63
+[21-Dec-2025 13:40:48 UTC] PHP Warning:  Undefined variable $realQty in /home/samsbvjk/public_html/index.php on line 67
+[21-Dec-2025 18:26:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.pieces_per_unit' in 'SELECT' in /home/samsbvjk/public_html/api.php:161
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(161): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 161
+[21-Dec-2025 18:26:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.pieces_per_unit' in 'SELECT' in /home/samsbvjk/public_html/api.php:161
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(161): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 161
+[21-Dec-2025 18:27:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.pieces_per_unit' in 'SELECT' in /home/samsbvjk/public_html/api.php:161
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(161): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 161
+[21-Dec-2025 18:29:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.pieces_per_unit' in 'SELECT' in /home/samsbvjk/public_html/api.php:161
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(161): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 161
+[21-Dec-2025 18:30:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.pieces_per_unit' in 'SELECT' in /home/samsbvjk/public_html/api.php:161
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(161): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 161
+[21-Dec-2025 18:33:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.color' in 'SELECT' in /home/samsbvjk/public_html/api.php:169
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(169): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 169
+[21-Dec-2025 18:33:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.color' in 'SELECT' in /home/samsbvjk/public_html/api.php:169
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(169): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 169
+[21-Dec-2025 18:34:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.color' in 'SELECT' in /home/samsbvjk/public_html/api.php:169
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(169): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 169
+[21-Dec-2025 18:34:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.color' in 'SELECT' in /home/samsbvjk/public_html/api.php:169
+Stack trace:
+#0 /home/samsbvjk/public_html/api.php(169): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/api.php on line 169
+[21-Dec-2025 20:26:24 UTC] PHP Warning:  Undefined variable $action in /home/samsbvjk/public_html/api.php on line 4
+[21-Dec-2025 20:26:25 UTC] PHP Warning:  Undefined variable $action in /home/samsbvjk/public_html/api.php on line 4
+[21-Dec-2025 20:26:26 UTC] PHP Warning:  Undefined variable $action in /home/samsbvjk/public_html/api.php on line 4
+[01-Jan-2026 13:31:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[01-Jan-2026 13:31:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[01-Jan-2026 13:31:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[01-Jan-2026 13:31:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[01-Jan-2026 13:31:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[01-Jan-2026 13:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[01-Jan-2026 13:32:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[01-Jan-2026 13:32:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.cost_price' in 'SELECT' in /home/samsbvjk/public_html/admin.php:47
+Stack trace:
+#0 /home/samsbvjk/public_html/admin.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/admin.php on line 47
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Undefined variable $settings in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Undefined variable $settings in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Undefined variable $settings in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Undefined variable $settings in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:20:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:24:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:26:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:26:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:26:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:26:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:26:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:26:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:26:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:26:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:26:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:26:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:26:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:26:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:26:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:26:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:26:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:26:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:26:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:26:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:27:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:27:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:27:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:27:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:27:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:27:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:28:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:28:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 422
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 426
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 429
+[02-Jan-2026 18:28:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/admin.php on line 434
+[02-Jan-2026 18:28:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 66
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 67
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 68
+[02-Jan-2026 18:28:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/samsbvjk/public_html/include/db.php on line 69
+[02-Jan-2026 18:35:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'samsbvjk_sam.settings' doesn't exist in /home/samsbvjk/public_html/include/db.php:62
+Stack trace:
+#0 /home/samsbvjk/public_html/include/db.php(62): PDO->query()
+#1 /home/samsbvjk/public_html/index.php(2): include('/home/samsbvjk/...')
+#2 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 62
+[02-Jan-2026 18:35:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'samsbvjk_sam.settings' doesn't exist in /home/samsbvjk/public_html/include/db.php:62
+Stack trace:
+#0 /home/samsbvjk/public_html/include/db.php(62): PDO->query()
+#1 /home/samsbvjk/public_html/index.php(2): include('/home/samsbvjk/...')
+#2 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 62
+[04-Feb-2026 16:58:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1286 Unknown storage engine 'InnoDB' in /home/samsbvjk/public_html/include/db.php:24
+Stack trace:
+#0 /home/samsbvjk/public_html/include/db.php(24): PDOStatement->execute()
+#1 /home/samsbvjk/public_html/index.php(2): include('/home/samsbvjk/...')
+#2 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 24
+[04-Feb-2026 17:19:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1286 Unknown storage engine 'InnoDB' in /home/samsbvjk/public_html/include/db.php:24
+Stack trace:
+#0 /home/samsbvjk/public_html/include/db.php(24): PDOStatement->execute()
+#1 /home/samsbvjk/public_html/index.php(2): include('/home/samsbvjk/...')
+#2 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 24
+[04-Feb-2026 18:52:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1036 Table 'users' is read only in /home/samsbvjk/public_html/include/db.php:24
+Stack trace:
+#0 /home/samsbvjk/public_html/include/db.php(24): PDOStatement->execute()
+#1 /home/samsbvjk/public_html/index.php(2): include('/home/samsbvjk/...')
+#2 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 24
+[04-Feb-2026 18:52:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1036 Table 'users' is read only in /home/samsbvjk/public_html/include/db.php:24
+Stack trace:
+#0 /home/samsbvjk/public_html/include/db.php(24): PDOStatement->execute()
+#1 /home/samsbvjk/public_html/index.php(2): include('/home/samsbvjk/...')
+#2 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 24
+[04-Feb-2026 18:52:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1036 Table 'users' is read only in /home/samsbvjk/public_html/include/db.php:24
+Stack trace:
+#0 /home/samsbvjk/public_html/include/db.php(24): PDOStatement->execute()
+#1 /home/samsbvjk/public_html/category.php(2): include('/home/samsbvjk/...')
+#2 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 24
+[04-Feb-2026 21:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home/samsbvjk/public_html/include/db.php:9
+Stack trace:
+#0 /home/samsbvjk/public_html/index.php(2): include()
+#1 {main}
+  thrown in /home/samsbvjk/public_html/include/db.php on line 9
