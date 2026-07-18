@@ -198,7 +198,7 @@ $pdo->prepare($itemSql)->execute([
 
                         // بناء رابط القسم
                         // 🔴 هام: غير YOUR-DOMAIN.com لرابط موقعك الحقيقي
-                        $targetUrl = 'https://sam-store.net/category.php?id=' . $alertInfo['cat_id'];
+                        $targetUrl = 'http://153.75.247.201:8080/category.php?id=' . $alertInfo['cat_id'];
 
                         $payload = json_encode([
                             'title' => '🚨 سارع قبل النفاذ!',

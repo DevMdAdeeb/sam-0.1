@@ -136,7 +136,7 @@ if (isset($_POST['send_global_notification'])) {
                 'title' => $title,
                 'body' => $body,
                 'icon' => 'icons/icon-512x512.png', // تأكد من وجود الصورة
-                'url'  => 'https://sam-store.net/index.php' // الرابط عند الضغط
+                'url'  => 'http://153.75.247.201:8080/index.php' // الرابط عند الضغط
             ]);
 
             $count = 0;
@@ -244,7 +244,7 @@ if (isset($_POST['add_product'])) {
                 'title' => '🔥 منتج جديد: ' . $name,
                 'body' => 'بسعر: ' . $price . ' ر.ي',
                 'icon' => 'icons/icon-192x192.png',
-                'url'  => 'https://sam-store.net/latest.php'
+                'url'  => 'http://153.75.247.201:8080/latest.php'
             ]);
 
             // 4. الإرسال
